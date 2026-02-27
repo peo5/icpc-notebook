@@ -3,14 +3,14 @@
 
 // Change here
 #show: project.with(
-  title: "Universidade de São Paulo - Faça o WM",
+  title: "Universidade de São Paulo - Here's my number: 998244353, so call me maybe",
   date: datetime.today().display(),
   authors: (
-    "Antonio M. S. A. Hachisuca",
-    "Nathan L. B. Martins",
-    "Willian M. Mori",
+    "Cauê Fornielles da Costa",
+    "Pedro Matheus Simões Ferreira",
+    "Pedro Miguelez",
   ),
-  logo: "phik.jpg"
+  logo: "cover.png"
 )
 
 = Template hashing
